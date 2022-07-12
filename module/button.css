@@ -1,0 +1,15 @@
+.btn {
+  background-color: #505050;
+  border: 1px solid #505050;
+  color: white;
+  width: 90%;
+  border-radius: 30px;
+  margin: 1px;
+  padding: 1px;
+}
+.btn--operator {
+  background-color: #4285f4;
+}
+.btn--dot {
+  background-color: #d4d4d2;
+}/*# sourceMappingURL=button.css.map */

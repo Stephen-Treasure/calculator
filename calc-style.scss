@@ -1,0 +1,38 @@
+@use "./module/button.scss";
+
+* {
+    margin: 0px;
+}
+
+th {
+    margin: 10px;
+    background-color: #1c1c1c;
+    color: #d4d4d2;
+    width: 170px;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+.container {
+    margin: 10px;
+    justify-content: center;
+    border: 2px solid;
+    width: 30%;
+    background-color: #1c1c1c;
+    border-radius: 10px;
+}
+
+td {
+    padding: 0px;
+}
+td {
+    padding: 0px;
+}
+
+table {
+    width: 0px;
+}
+
+th {
+    color: white;
+}
