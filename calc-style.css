@@ -27,27 +27,20 @@ th {
   text-align: center;
 }
 
-.container {
-  margin: 10px;
-  justify-content: center;
-  border: 2px solid;
-  width: 30%;
-  background-color: #1c1c1c;
-  border-radius: 10px;
-}
-
-td {
-  padding: 0px;
-}
-
+/*.container {
+    margin: 10px;
+    justify-content: center;
+    border: 2px solid;
+    background-color: #1c1c1c;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+}*/
 td {
   padding: 0px;
 }
 
 table {
-  width: 0px;
-}
-
-th {
-  color: white;
+  background-color: black;
+  margin: 30vh auto auto auto;
 }
